@@ -15,7 +15,7 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "0b3aa5771373472290f1a2d6f2e83a48";
+char auth[] = "put in your own blynk auth";
 
 //pins
 int tempSensorPin = D2; //DS18B20 Temperature sensor pin
